@@ -1,2 +1,2 @@
 # school_robot_test01
-Tech assignment
+Tech assignment includes with and without sensor
